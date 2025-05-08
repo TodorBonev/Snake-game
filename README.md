@@ -11,4 +11,4 @@ After hitting one of the walls of the playing area, the game ends. The game star
 * CSS
 * JavaScript
 
-You can try a live demo of this snake game here.
+You can try a live demo of this snake game [here](https://todorbonev.github.io/Snake-game).
